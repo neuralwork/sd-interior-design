@@ -1,0 +1,26 @@
+# Configuration for Cog ⚙️
+# Reference: https://cog.run/yaml
+
+build:
+  gpu: true
+  system_packages:
+    - "libgl1-mesa-glx"
+    - "libglib2.0-0"
+  python_version: "3.11"
+  python_packages:
+    - "diffusers==0.25.0"
+    - "xformers==0.0.23.post1"
+    - "transformers==4.36.2"
+    - "torchvision==0.16.2"
+    - "accelerate==0.26.1"
+    - "opencv-python==4.9.0.80"
+    - "scipy==1.11.4"
+    - "triton==2.1.0"
+    - "altair==4.1.0"
+    - "pandas==2.1.4"
+    - "controlnet-aux"
+    - "Pillow"
+    - "mediapipe"
+
+# predict.py defines how predictions are run on your model
+predict: "predict.py:Predictor"
