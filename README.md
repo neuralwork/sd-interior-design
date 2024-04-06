@@ -26,6 +26,6 @@ The API input arguments are as follows:
 
 ## Model Details
 
-This is a custom pipeline that uses [Realistic Vision V3.0](https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE) as the base model, inspired by AICrowd's Generative Interior Design [hackathon](https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024). See the base and ControlNet model pages for their respective licenses. This code base is licensed under the [MIT license](https://github.com/neuralwork/sd-interior-design/blob/main/LICENSE).
+This is a custom pipeline inspired by AICrowd's Generative Interior Design [hackathon](https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024) that uses [Realistic Vision V3.0](https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE) as the base model. See the base and ControlNet model pages for their respective licenses. This code base is licensed under the [MIT license](https://github.com/neuralwork/sd-interior-design/blob/main/LICENSE).
 
 From [neuralwork](https://neuralwork.ai/) with :heart:
