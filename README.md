@@ -28,4 +28,6 @@ The API input arguments are as follows:
 
 This is a custom pipeline inspired by AICrowd's Generative Interior Design [hackathon](https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024) that uses [Realistic Vision V3.0](https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE) as the base model. See the base and ControlNet model pages for their respective licenses. This code base is licensed under the [MIT license](https://github.com/neuralwork/sd-interior-design/blob/main/LICENSE).
 
+<a href='https://ko-fi.com/Z8Z616R4PF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 From [neuralwork](https://neuralwork.ai/) with :heart:
